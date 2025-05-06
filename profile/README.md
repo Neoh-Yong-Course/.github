@@ -23,7 +23,9 @@
 
   <div class="course">
     <h2>📘 Top Reseller Trading Courses</h2>
-    <img src="https://wsotradingcourses.com/" alt="Reseller Courses">
+   <a href="https://wsotradingcourses.com/">
+  <img src="https://wsotradingcourses.com/" alt="Reseller Courses">
+</a>
     <p>Choose from a wide range of top-rated reseller trading courses. These high-value, low-cost options give you access to expert knowledge without breaking the bank.</p>
   </div>
 
