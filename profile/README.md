@@ -2,7 +2,7 @@
 <body>
 
 <header>
-  <h1>WSO Trading Courses</h1>
+  <h1>WSO Online Trading Courses</h1>
   <p>Affordable & Quality Online Trading Courses</p>
 </header>
 
