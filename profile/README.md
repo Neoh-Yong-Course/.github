@@ -73,13 +73,13 @@
 <div class="content">
   <div class="course">
     <h2>🔥 Neoh Yong's 1% Elite Trade Club</h2>
-    <img src="https://via.placeholder.com/800x400?text=Neoh+Yong+1%25+Elite+Trade+Club" alt="Neoh Yong Course">
+    <img src="https://wsotradingcourses.com/product/neoh-yong-the-1ers-trade-club-elite-course/" alt="Neoh Yong Course">
     <p>This premium trading course by Neoh Yong is now available at a fraction of the original price. Learn the strategies of the 1% and join an exclusive community of elite traders.</p>
   </div>
 
   <div class="course">
     <h2>📘 Top Reseller Trading Courses</h2>
-    <img src="https://via.placeholder.com/800x400?text=Reseller+Courses" alt="Reseller Courses">
+    <img src="https://wsotradingcourses.com/" alt="Reseller Courses">
     <p>Choose from a wide range of top-rated reseller trading courses. These high-value, low-cost options give you access to expert knowledge without breaking the bank.</p>
   </div>
 
