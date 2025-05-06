@@ -15,7 +15,9 @@
 <div class="content">
   <div class="course">
     <h2>🔥 Neoh Yong's 1% Elite Trade Club</h2>
-    <img src="https://wsotradingcourses.com/product/neoh-yong-the-1ers-trade-club-elite-course/" alt="Neoh Yong Course">
+    <a href="https://wsotradingcourses.com/product/neoh-yong-the-1ers-trade-club-elite-course/">
+  <img src="https://wsotradingcourses.com/product/neoh-yong-the-1ers-trade-club-elite-course/" alt="Neoh Yong Course">
+</a>
     <p>This premium trading course by Neoh Yong is now available at a fraction of the original price. Learn the strategies of the 1% and join an exclusive community of elite traders.</p>
   </div>
 
