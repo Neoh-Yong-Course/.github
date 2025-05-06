@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>WSO Trading Courses - Affordable Online Trading Courses</title>
+  <title>WSO Trading Courses - Affordable Online Forex, Stocks Trading Courses</title>
   <style>
     body {
       font-family: Arial, sans-serif;
